@@ -1,27 +1,25 @@
-# This is a large heading
+# Shabas Ali
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Birmingham, in the West Midlands, in England.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three programming books on my reading list are:
 
-Here is `some code` in the middle of a sentence.
+- *C Programming Absolute Beginner's Guide* by Gregg Perry and Dean Miller
+- *The C Programming Language* by Brian W. Kernighan and Dennis M. Ritchie
+- *Programming: Principles and Practice Using C++* by Bjarne Stroustrup
 
-```
-This is
-a block
-of code
-```
+### Gaming
 
-Here is how you make [a link](https://www.wikipedia.org/).
-)
+I love playing co-op games, survival horror, tactical and stealth FPS/TPS.
+
+### Food
+
+I love pizza!
+
+### Contact
+
+The best way to get in touch with me is [on LinkedIn](https://www.linkedin.com/in/shabas-ali-8b1922284).
